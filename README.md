@@ -1,6 +1,6 @@
-# Blazor-Scheduler-Virtual-Scrolling
+# Blazor Scheduler Virtual Scrolling
 
-A quick-start project that helps you how to Virtual scroll in blazor Schedulers component. 
+A quick-start project that helps you how to Virtual scroll in the Blazor Schedulers component. 
 
 Documentation: https://blazor.syncfusion.com/documentation/scheduler/virtual-scrolling
 
