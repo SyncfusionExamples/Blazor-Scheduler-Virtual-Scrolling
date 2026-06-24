@@ -1,6 +1,6 @@
-# Blazor Scheduler Virtual Scrolling
+# Implementing Virtual Scrolling in the Blazor Scheduler
 
-A quick-start project that demonstrates how to implement virtual scrolling functionality in the Blazor Scheduler component, enabling efficient rendering of large datasets with smooth scrolling performance.
+A quick-start project that demonstrates how to implement virtual scrolling functionality in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, enabling efficient rendering of large datasets with smooth scrolling performance.
 
 ## Project Overview
 
