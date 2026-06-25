@@ -1,10 +1,6 @@
 # Implementing Virtual Scrolling in the Blazor Scheduler
 
-A quick-start project that demonstrates how to implement virtual scrolling functionality in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, enabling efficient rendering of large datasets with smooth scrolling performance.
-
-## Project Overview
-
-This sample application showcases the virtual scrolling feature of the Syncfusion Blazor Scheduler component. Virtual scrolling allows you to handle large numbers of appointments efficiently by rendering only the visible elements in the viewport, significantly improving application performance and responsiveness.
+This quick start project demonstrates how to implement virtual scrolling in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) to efficiently handle large datasets. It showcases rendering only visible appointments within the viewport to improve performance and responsiveness, serving as a practical guide for building scalable scheduling applications using Syncfusion Blazor components.
 
 ## Features
 
@@ -17,14 +13,13 @@ This sample application showcases the virtual scrolling feature of the Syncfusio
 
 - Visual Studio 2022 (latest version)
 - .NET 6.0 or higher
-- Syncfusion Blazor EJ2 NuGet packages
 
-## Installation & Setup
+## How to run the project
 
-1. Clone the <code>Blazor-Scheduler-Virtual-Scrolling</code> repository to your local machine
-2. Open the project in Visual Studio 2022
-3. Register the Syncfusion license key in your Program.cs file (refer to the license registration guide)
-4. Build and run the project
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Usage
 
