@@ -11,8 +11,8 @@ This quick start project demonstrates how to implement virtual scrolling in the 
 
 ## Prerequisites
 
-- Visual Studio 2022 (latest version)
-- .NET 6.0 or higher
+- Visual Studio 2026 (or Visual Studio 2022 17.14+)
+- .NET 10.0 SDK
 
 ## How to run the project
 
